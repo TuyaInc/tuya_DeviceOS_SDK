@@ -1,0 +1,2 @@
+新增mips-ingenic-linux-gnu-32bit-gcc-5.2.0编译工具链
+
