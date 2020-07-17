@@ -1,0 +1,4 @@
+1，支持with low power mode && auto cfg 这个带记忆功能的模式
+2，开发环境支快速点灯的接口
+3，开发环境支持components.mk的编译集成
+4，增加蓝牙遥控器广播接收。优化蓝牙广播和wifi共存
