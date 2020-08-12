@@ -1,0 +1,2 @@
+新增arm-linux-gnueabi-gcc-5.5.0编译工具链
+备注：目前新增一个工具链，我司CI系统需要SDK版本号升级后才能发布到github
